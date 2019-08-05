@@ -90,16 +90,36 @@
 #         list01.append(element)
 # print(list01)
 
-list01 = [23, 12, 15, 11, 29, 24, 57, 21, 80, 99, 45]
-index = 0
-j = len(list01)
-while j > 0:
-    for i in range(j-1):
-        if list01[i] > list01[i+1]:
-            index = list01[i]
-            list01[i] = list01[i+1]
-            list01[i+1] = index
-    j -= 1
-print(list01)
+# list01 = [23, 12, 15, 11, 29, 24, 57, 21, 80, 99, 45]
+# index = 0
+# j = len(list01)
+# while j > 0:
+#     for i in range(j-1):
+#         if list01[i] > list01[i+1]:
+#             index = list01[i]
+#             list01[i] = list01[i+1]
+#             list01[i+1] = index
+#     j -= 1
+# print(list01)
 
+# list01 = [1, 2, 3.4]
+# tuple01 = (1, "jjj", 9)
+# print(list01.__sizeof__())
+# print(tuple01.__sizeof__())
+# list01.append("zyx")
+# tuple01 = tuple01 + (1,)
+# print(list01.__sizeof__())
+# print(tuple01.__sizeof__())
+# tuple01 = tuple01 +("jajskaf", )
+# list01.append("yyy")
+# print(list01.__sizeof__())
+# print(tuple01.__sizeof__())
 
+list01 = [1, 2, 3, 4, 5, 6, 7]
+tuple01 = (1, 2, 3, 4, 5, 6)
+for element in list01:
+    print(element)
+
+tuple01 = (2, 4.445, False, "String Type")
+number = tuple01.count(1)						# 统计元素1的数量
+print(number)
