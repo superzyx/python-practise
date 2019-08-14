@@ -40,30 +40,46 @@
 #     print('404')
 
 
-import functools
-import time
-import datetime
+# import functools
+# import time
+# import datetime
+#
+# def countTask(func):
+#     @functools.wraps(func)
+#     def wrapper(*args, **kwargs):
+#         start = time.perf_counter()
+#         func(*args, **kwargs)
+#         end = time.perf_counter()
+#         print('{} {} took {:f}'.format(datetime.datetime.now(), func.__name__, (end - start)))
+#     return wrapper
+#
+#
+# def stepCount(n):
+#     @countTask
+#     def count():
+#         nonlocal n
+#         n += 1
+#         print(n)
+#     return count
+#
+# i = int(input('开始计步，初始值：'))
+# step = stepCount(i)
+# step()
+# step()
+# step()
 
-def countTask(func):
+import functools
+def decorate(func):
     @functools.wraps(func)
-    def wrapper(*args, **kwargs):
-        start = time.perf_counter()
-        func(*args, **kwargs)
-        end = time.perf_counter()
-        print('{} {} took {:f}'.format(datetime.datetime.now(), func.__name__, (end - start)))
+    def wrapper():
+        print('jj')
+        k = func()
+        print(k)
     return wrapper
 
+@decorate
+def println():
+    return 1
 
-def stepCount(n):
-    @countTask
-    def count():
-        nonlocal n
-        n += 1
-        print(n)
-    return count
-
-i = int(input('开始计步，初始值：'))
-step = stepCount(i)
-step()
-step()
-step()
+pt = println()
+print(pt)

@@ -15,8 +15,14 @@ with open(file='../day03_python_dict,set/reading/access_log', mode='r', encoding
         else:
             dict_pv[con.split()[0]] = 1
 print(dict_pv)
-dict_pv = sorted(dict_pv.items(), key=lambda x:x[1], reverse=True)
-dict_pv = dict(dict_pv[:10])
-print(dict_pv)
-with open(file='./pv.json', mode='w', encoding='utf8')as file02:
-    file02.write(json.dumps(dict_pv))
+# dict_pv = sorted(dict_pv.items(), key=lambda x:x[1], reverse=True)
+# dict_pv = dict(dict_pv[:10])
+# print(dict_pv)
+# filter((lambda ip:  if ip[1] > 100), dict_pv.items())
+def guolv(n):
+    if n[1] > 800:
+        return 1
+a = dict(filter(guolv, dict_pv.items()))
+print(a)
+# with open(file='./pv.json', mode='w', encoding='utf8')as file02:
+#     file02.write(json.dumps(dict_pv))
