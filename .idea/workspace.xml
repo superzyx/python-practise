@@ -5,63 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bb4ad33-7805-4002-bf67-727588fef33d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0826_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/put_files/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/put_files/get_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/put_files/source/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/put_files/source/connect_mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/put_files/source/getinfo_mathod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/put_files/source/transport_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/putfiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/pyauto_install.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0826_project/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0828_project/getinfo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0828_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0828_project/putfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0831_project/analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0831_project/connectsql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0831_project/getinfo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0831_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0831_project/putfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0831_project/tran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/eighteenthone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/fifthone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/firstone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/forthone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/secondone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/seventeenthone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/sixteenthone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/source/access_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/thirdone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0908exam/twentiethone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_python_magic/magic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_python_magic/many_inherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_python_magic/preview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_python_error/Error_try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_python_error/mysql_connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/filedir/aaa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/filedir/abc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/filedir/zyx.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/fnmatch_p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/hhh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/random_pp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_part_main/re_ads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13_paramiko/connection_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13_paramiko/transport_passwd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ppp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pract/11111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pract/preview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pract/preview01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pract/source/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pract/source/website.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_func/packdge/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_func/packdge/log_Analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-practise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-practise.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pract/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pract/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pract/hh.py" beforeDir="false" afterPath="$PROJECT_DIR$/pract/hh.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0908exam/fifthone.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="266">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -177,8 +121,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="496" />
-    <option name="y" value="113" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1305" />
     <option name="height" value="860" />
   </component>
@@ -196,28 +140,6 @@
             <path>
               <item name="python-practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-practise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-practise" type="462c0819:PsiDirectoryNode" />
-              <item name="0908exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-practise" type="462c0819:PsiDirectoryNode" />
-              <item name="0908exam" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-practise" type="462c0819:PsiDirectoryNode" />
-              <item name="day03_python_dict,set" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-practise" type="462c0819:PsiDirectoryNode" />
-              <item name="day03_python_dict,set" type="462c0819:PsiDirectoryNode" />
-              <item name="reading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +183,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.thirdone">
+  <component name="RunManager" selected="Python.fifthone">
+    <configuration name="fifthone" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0908exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0908exam/fifthone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="forthone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,28 +220,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0908exam/forthone.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="secondone" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0908exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0908exam/secondone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fifthone" />
         <item itemvalue="Python.thirdone" />
         <item itemvalue="Python.forthone" />
         <item itemvalue="Python.sixteenthone" />
         <item itemvalue="Python.seventeenthone" />
-        <item itemvalue="Python.secondone" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +356,7 @@
       <workItem from="1567816363174" duration="873000" />
       <workItem from="1567817818038" duration="19174000" />
       <workItem from="1567924795884" duration="3024000" />
-      <workItem from="1567951553535" duration="3258000" />
+      <workItem from="1567951553535" duration="4057000" />
     </task>
     <task id="LOCAL-00001" summary="start learning">
       <created>1565004499157</created>
@@ -489,7 +411,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355209000" />
+    <option name="totallyTimeSpent" value="356008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,24 +424,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="File Transfer" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.27478755" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.6809651" visible="true" weight="0.35410765" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.6809651" weight="0.35410765" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49932975" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31903484" side_tool="true" visible="true" weight="0.35410765" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30764076" side_tool="true" visible="true" weight="0.33569404" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32719547" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4966488" weight="0.25637394" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.69235927" visible="true" weight="0.33569404" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -603,6 +524,7 @@
     <SUITE FILE_PATH="coverage/python_practise$save_in.coverage" NAME="save_in Coverage Results" MODIFIED="1567045919148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0828_project/lib/connect_mysql" />
     <SUITE FILE_PATH="coverage/python_practise$dict.coverage" NAME="dict Coverage Results" MODIFIED="1565165382179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03_python_dict,set" />
     <SUITE FILE_PATH="coverage/python_practise$forthone.coverage" NAME="forthone Coverage Results" MODIFIED="1567953756491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0908exam" />
+    <SUITE FILE_PATH="coverage/python_practise$fifthone.coverage" NAME="fifthone Coverage Results" MODIFIED="1567955149687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0908exam" />
     <SUITE FILE_PATH="coverage/python_practise$many_inherit.coverage" NAME="many_inherit Coverage Results" MODIFIED="1565920720094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09_python_magic" />
   </component>
   <component name="editorHistoryManager">
@@ -931,8 +853,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0908exam/fifthone.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="266">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
